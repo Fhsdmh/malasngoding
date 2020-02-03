@@ -1,7 +1,7 @@
 <?php 
 
 
-$conn = mysqli_connect("localhost","root","mkaizindabad","ashifmalasngoding");
+$conn = mysqli_connect("localhost","root","mkaizindabad","ashif");
 
 
 
